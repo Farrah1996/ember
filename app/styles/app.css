@@ -1,0 +1,14 @@
+.well{
+    background: #f4f4f4;
+    border: #cc 1px solid;
+    padding: 20px;
+    width:400px;
+}
+
+.greeting-set{
+    background: #ccc;
+}
+
+body{
+    margin-top: 30px;
+}
